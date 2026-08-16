@@ -2,14 +2,14 @@ const h1 = document.querySelector("h1");
 const img = document.querySelector("img");
 
 // text / HTML
-h1.textContent = "Hello CSC220";
+h1.textContent = "Hello Welccome to the CSC220: Web Development ";
 h1.innerHTML = "Hello <em>CSC220</em>";
 
 // attributes
 img.setAttribute("alt", "logo");
 
 // inline style
-h1.style.color = "crimson";
+h1.style.color = "red";
 
 // classes
 h1.classList.add("highlight");
