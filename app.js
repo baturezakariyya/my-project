@@ -2,7 +2,7 @@ const h1 = document.querySelector("h1");
 const img = document.querySelector("img");
 
 // text / HTML
-h1.textContent = "Hello Welccome to the CSC220: Web Development II ";
+h1.textContent = "Hello Student Directory";
 h1.innerHTML = "Hello <em>CSC220</em>";
 
 // attributes
