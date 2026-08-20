@@ -3,7 +3,7 @@ const img = document.querySelector("img");
 
 // text / HTML
 
-h1.textContent = "Student Directory";
+h1.textContent = "Hello, Student Directory";
 h1.innerHTML = "Hello <em>CSC220</em>";
 
 // attributes
